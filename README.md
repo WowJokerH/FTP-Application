@@ -1,6 +1,14 @@
 # FTP-Application
 一个基于 Python3 socket 的 FTP 应用程序，支持递归文件夹传输和多线程并发下载
 
+## 界面预览
+
+### 客户端界面
+![客户端界面](media/UI.png)
+
+### 服务器输出
+![服务器输出](media/server-output.png)
+
 ## 功能特性
 - ✅ Windows 环境下运行
 - ✅ 支持文件和文件夹的递归上传/下载
